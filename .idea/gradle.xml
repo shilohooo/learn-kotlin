@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/basic-data-type" />
             <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/control-flow" />
+            <option value="$PROJECT_DIR$/function" />
             <option value="$PROJECT_DIR$/hello-world" />
             <option value="$PROJECT_DIR$/string-template" />
             <option value="$PROJECT_DIR$/utils" />
