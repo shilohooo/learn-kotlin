@@ -40,7 +40,9 @@ and both a build cache and a configuration cache (see `gradle.properties`).
 |      [collection](./collection)      |  [Collections](https://kotlin.liying-cn.net/kotlin-tour-collections.html)  |
 |    [control-flow](./control-flow)    | [Control Flow](https://kotlin.liying-cn.net/kotlin-tour-control-flow.html) |
 |        [function](./function)        |    [Functions](https://kotlin.liying-cn.net/kotlin-tour-functions.html)    |
-| [string-template](./string-template) |                              String Template                               |
+| [string-template](./string-template) |                              String Template                               |       
+|         [classes](./classes)         |       [Class](https://kotlin.liying-cn.net/kotlin-tour-classes.html)       |
+|     [null-safety](./null-safety)     |  [Null Safety](https://kotlin.liying-cn.net/kotlin-tour-null-safety.html)  |
 
 ### Intermediate
 
