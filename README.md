@@ -52,4 +52,5 @@ and both a build cache and a configuration cache (see `gradle.properties`).
 |        [scope-function](./scope-function)        |          [Scope Function](https://kotlin.liying-cn.net/kotlin-tour-intermediate-scope-functions.html)          |
 |       [lambda-receiver](./lambda-receiver)       | [Lambda expression with receiver](https://kotlin.liying-cn.net/kotlin-tour-intermediate-lambdas-receiver.html) |
 | [class-and-interfaces](./classes-and-interfaces) |    [Classes and Interfaces](https://kotlin.liying-cn.net/kotlin-tour-intermediate-classes-interfaces.html)     |
+|               [objects](./objects)               |            [Object Declaration](https://kotlin.liying-cn.net/kotlin-tour-intermediate-objects.html)            |
 
