@@ -46,11 +46,11 @@ and both a build cache and a configuration cache (see `gradle.properties`).
 
 ### Intermediate
 
-|                    Directory                     |                                                  Description                                                   |
-|:------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-|   [extension-functions](./extension-functions)   |     [Extension Functions](https://kotlin.liying-cn.net/kotlin-tour-intermediate-extension-functions.html)      |
-|        [scope-function](./scope-function)        |          [Scope Function](https://kotlin.liying-cn.net/kotlin-tour-intermediate-scope-functions.html)          |
-|       [lambda-receiver](./lambda-receiver)       | [Lambda expression with receiver](https://kotlin.liying-cn.net/kotlin-tour-intermediate-lambdas-receiver.html) |
-| [class-and-interfaces](./classes-and-interfaces) |    [Classes and Interfaces](https://kotlin.liying-cn.net/kotlin-tour-intermediate-classes-interfaces.html)     |
-|               [objects](./objects)               |            [Object Declaration](https://kotlin.liying-cn.net/kotlin-tour-intermediate-objects.html)            |
-
+|                       Directory                        |                                                  Description                                                   |
+|:------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+|      [extension-functions](./extension-functions)      |     [Extension Functions](https://kotlin.liying-cn.net/kotlin-tour-intermediate-extension-functions.html)      |
+|           [scope-function](./scope-function)           |          [Scope Function](https://kotlin.liying-cn.net/kotlin-tour-intermediate-scope-functions.html)          |
+|          [lambda-receiver](./lambda-receiver)          | [Lambda expression with receiver](https://kotlin.liying-cn.net/kotlin-tour-intermediate-lambdas-receiver.html) |
+|    [class-and-interfaces](./classes-and-interfaces)    |    [Classes and Interfaces](https://kotlin.liying-cn.net/kotlin-tour-intermediate-classes-interfaces.html)     |
+|                  [objects](./objects)                  |            [Object Declaration](https://kotlin.liying-cn.net/kotlin-tour-intermediate-objects.html)            |
+| [open-and-special-classes](./open-and-special-classes) |  [Open and Special Classes](https://kotlin.liying-cn.net/kotlin-tour-intermediate-open-special-classes.html)   |
