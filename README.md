@@ -54,3 +54,4 @@ and both a build cache and a configuration cache (see `gradle.properties`).
 |    [class-and-interfaces](./classes-and-interfaces)    |    [Classes and Interfaces](https://kotlin.liying-cn.net/kotlin-tour-intermediate-classes-interfaces.html)     |
 |                  [objects](./objects)                  |            [Object Declaration](https://kotlin.liying-cn.net/kotlin-tour-intermediate-objects.html)            |
 | [open-and-special-classes](./open-and-special-classes) |  [Open and Special Classes](https://kotlin.liying-cn.net/kotlin-tour-intermediate-open-special-classes.html)   |
+|               [properties](./properties)               |              [Properties](https://kotlin.liying-cn.net/kotlin-tour-intermediate-properties.html)               |
